@@ -588,4 +588,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define LORA_POWER_CTRL_CH 2
 
 // Default Bluetooth PIN
-#define defaultBLEPin 123456
+#define defaultBLEPin 000000
