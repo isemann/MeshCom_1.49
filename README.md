@@ -1,8 +1,7 @@
 # MeshCom Firmware (Beta)
 
 Meshtastic Source-Code angepasst für MeshCom Projekt:
-
-/*
+/*:
 * Bluetooth PIN wurde fix auf "000000" gesetzt, erleichtert Verbindung mit dem Smartphone
 filename: nimble/BluetoothUtil.cpp, line 242
 filename: src/coniguration.h, line 592
