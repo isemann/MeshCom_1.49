@@ -21,7 +21,6 @@ Region: EU433\
 filename: src/coniguration.h, line 594-597
 
 
-Zum Source-Code auf Github geht es [hier.](https://github.com/isemann/MeshCom)
 
 [Firmware fuer den TTGO TBeam (langes Board)](https://isemann.at/files/tbeam_meshcom_1.2.48_v0.9.bin)
 
@@ -29,8 +28,6 @@ Zum Source-Code auf Github geht es [hier.](https://github.com/isemann/MeshCom)
 
 [Firmware fuer den Heltec](https://isemann.at/files/heltec-v2_meshcom_1.2.48_v0.9.bin)
 
-
-Ein weiteres Update der Firmware ist in Arbeit das folgende Aenderungen beinhaltet:
 
 
 ShortName = Suffix ( MZC) oder CALL (OE3MZC/p)

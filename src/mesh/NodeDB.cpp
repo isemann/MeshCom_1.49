@@ -107,7 +107,7 @@ bool NodeDB::resetRadioConfig()
         radioConfig.preferences.wait_bluetooth_secs = 10;
         radioConfig.preferences.position_broadcast_secs = 6 * 60;
         radioConfig.preferences.ls_secs = 60;
-        radioConfig.preferences.region = RegionCode_TW;
+        radioConfig.preferences.region = RegionCode_EU433;
 
         // Enter super deep sleep soon and stay there not very long
         // radioConfig.preferences.mesh_sds_timeout_secs = 10;
