@@ -18,7 +18,7 @@ filename: mesh/http/WifiAPClient.cpp, line 66
 PSK Encryption NONE\
 Channel: Very Long Range Very Slow (BW125kHz)\
 Region: EU433\
-filename: src/coniguration.h, line 594-597
+filename: src/configuration.h, line 594-597
 
 
 
@@ -29,5 +29,5 @@ filename: src/coniguration.h, line 594-597
 [Firmware fuer den Heltec](https://isemann.at/files/heltec-v2_meshcom_1.2.48_v0.9.bin)
 
 
-
-ShortName = Suffix ( MZC) oder CALL (OE3MZC/p)
+ToDo:
+* ShortName = Suffix ( MZC) oder CALL (OE3MZC/p)
