@@ -7,13 +7,18 @@ filename: nimble/BluetoothUtil.cpp, line 242\
 filename: src/coniguration.h, line 592
 * HOP_Limit für Nachrichten wurde auf 5 erhöht, damit Nachrichten im Mesh-Netzwerk 5 mal von anderen Nodes weitergesendet werden.\
 filename: mesh/MeshTypes.h, line 37
-* MeshCom logo\
+* MeshCom logo und ÖVSV link\
 filename: src/graphics/img/icon.xbm\
 filename: src/graphics/Screen.cpp, line 127
 * Beide sleep modi (light sleep, deep sleep) sind deaktiviert\
 filename: src/sleep.cpp
-* Wifi Refresh für Gatway reduziert auf 5sec\
+* Wifi Refresh für Gateway reduziert auf 5sec\
 filename: mesh/http/WifiAPClient.cpp, line 66
+* Fixe Voreinstellung von:\
+PSK Encryption NONE\
+Channel: Very Long Range Very Slow (BW125kHz)\
+Region: EU433\
+filename: src/coniguration.h, line 594-597
 
 
 Zum Source-Code auf Github geht es [hier.](https://github.com/isemann/MeshCom)
@@ -27,8 +32,5 @@ Zum Source-Code auf Github geht es [hier.](https://github.com/isemann/MeshCom)
 
 Ein weiteres Update der Firmware ist in Arbeit das folgende Aenderungen beinhaltet:
 
-fixe Voreinstellung von:
-PSK Encryption NONE,
-Channel: Very Long Range Very Slow (BW125kHz)
-Region: EU433
+
 ShortName = Suffix ( MZC) oder CALL (OE3MZC/p)

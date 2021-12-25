@@ -590,3 +590,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 // Default Bluetooth PIN
 #define defaultBLEPin 000000
+
+//Meshcom Presettings
+#define myRegion EU433
+#define pskIndex none
+#define ChannelSettings_Modem_Config 3
