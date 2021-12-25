@@ -1,4 +1,4 @@
-# MeshCom Firmware (Beta)
+# MeshCom Firmware (Beta v1.0)
 
 Meshtastic Source-Code angepasst für MeshCom Projekt:
 
