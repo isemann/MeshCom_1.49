@@ -22,11 +22,11 @@ filename: src/configuration.h, line 594-597
 
 
 
-[Firmware fuer den TTGO TBeam (langes Board)](https://isemann.at/files/tbeam_meshcom_1.2.48_v0.9.bin)
+[Firmware fuer den TTGO TBeam (langes Board)](https://isemann.at/files/tbeam_meshcom_1.2.49_v1.0.bin)
 
-[Firmware fuer den TLora (kleines Board)](https://isemann.at/files/tlora-v2_meshcom_1.2.48_v0.9.bin)
+[Firmware fuer den TLora (kleines Board)](https://isemann.at/files/tlora-v2_meshcom_1.2.49_v1.0.bin)
 
-[Firmware fuer den Heltec](https://isemann.at/files/heltec-v2_meshcom_1.2.48_v0.9.bin)
+[Firmware fuer den Heltec](https://isemann.at/files/heltec-v2_meshcom_1.2.49_v1.0.bin)
 
 
 ToDo:
