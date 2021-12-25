@@ -31,3 +31,4 @@ filename: src/configuration.h, line 594-597
 
 ToDo:
 * ShortName = Suffix ( MZC) oder CALL (OE3MZC/p)
+* Reconnect to MeshCom server after reboot
