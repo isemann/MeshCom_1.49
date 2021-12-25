@@ -8,7 +8,8 @@ filename: src/coniguration.h, line 592
 * HOP_Limit für Nachrichten wurde auf 5 erhöht, damit Nachrichten im Mesh-Netzwerk 5 mal von anderen Nodes weitergesendet werden.\
 filename: mesh/MeshTypes.h, line 37
 * MeshCom logo\
-filename: src/graphics/img/icon.xbm
+filename: src/graphics/img/icon.xbm\
+filename: src/graphics/Screen.cpp, line 127
 * Beide sleep modi (light sleep, deep sleep) sind deaktiviert\
 filename: src/sleep.cpp
 * Wifi Refresh für Gatway reduziert auf 5sec\
