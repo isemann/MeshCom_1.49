@@ -62,8 +62,8 @@ static int32_t reconnectWiFi()
             WiFi.begin(wifiName, wifiPsw);
         }
     }
-
-    return 30 * 1000; // every 30 seconds
+    //OE3BIA: chnages refresh time from 30sec down to 5sec
+    return 5 * 1000; // every 30 seconds
 }
 
 static Periodic *wifiReconnect;
